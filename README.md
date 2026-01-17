@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-I'm currently working on my Ph.D. research and plan to publish my findings in the coming months. I hope my work can contribute to the community and prove useful to others.
+I'm currently pursuing my Ph.D. and would like to introduce Qihe, the first general-purpose framework for Verilog static analysis, a project I've dedicated four years of my doctoral research to developing. Feel free to give it a try!
